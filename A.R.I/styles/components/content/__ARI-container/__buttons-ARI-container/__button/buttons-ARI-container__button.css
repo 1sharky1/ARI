@@ -1,0 +1,10 @@
+.buttons-ARI-container__button{
+    width: 55px;
+    height: 30px;
+    margin-bottom: 5px;
+    background-color: rgb(80,80,80);
+    text-align: center;
+    color: rgb(200,200,200);
+    font-size: 25px;
+    font-weight: bolder;
+}

@@ -1,0 +1,32 @@
+@import url(components/body.css);
+@import url(components/page.css);
+
+@import url(components/content/content-minimized.css);
+@import url(components/content/content-maximized.css);
+
+@import url(components/menu/menu.css);
+@import url(components/menu/__button/menu__button.css);
+@import url(components/menu/__button-resize/menu__button-resize.css);
+@import url(components/menu/__button-reset/menu__button-reset.css);
+
+@import url(components/content/__ARI-container/content__ARI-container.css);
+@import url(components/content/__ARI-container/ARI-item/ARI-item.css);
+@import url(components/content/__ARI-container/__buttons-ARI-container/ARI-container__buttons-ARI-container.css);
+@import url(components/content/__ARI-container/__buttons-ARI-container/__button/buttons-ARI-container__button.css);
+@import url(components/content/__ARI-container/__buttons-ARI-container/__button-scaleup/buttons-ARI-container__button-scaleup.css);
+@import url(components/content/__ARI-container/__buttons-ARI-container/__button-scaledown/buttons-ARI-container__button-scaledown.css);
+
+@import url(components/content/__graphs-container/content__graphs-container.css);
+@import url(components/content/__graphs-container/__item1/graphs__item1.css);
+@import url(components/content/__graphs-container/__item2/graphs__item2.css);
+
+@import url(components/content/__buttons-container/content__buttons-container.css);
+@import url(components/content/__buttons-container/__button/buttons-container__button.css);
+@import url(components/content/__buttons-container/__item1/buttons-container__item1.css);
+@import url(components/content/__buttons-container/__item2/buttons-container__item2.css);
+@import url(components/content/__buttons-container/__item3/buttons-container__item3.css);
+@import url(components/content/__buttons-container/__item4/buttons-container__item4.css);
+@import url(components/content/__buttons-container/__item5/buttons-container__item5.css);
+@import url(components/content/__buttons-container/__item6/buttons-container__item6.css);
+@import url(components/content/__buttons-container/__item7/buttons-container__item7.css);
+@import url(components/content/__buttons-container/__item8/buttons-container__item8.css);

@@ -1,0 +1,11 @@
+.content__buttons-container{
+    grid-area: buttons-container;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 450px;
+    min-height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}

@@ -1,0 +1,8 @@
+.content-minimized{
+    display: grid;
+    grid-template-columns: 460px 1100px;
+    grid-template-areas: 
+    "ARI-container graphs-container"
+    "buttons-container graphs-container";
+    gap: 30px;
+}

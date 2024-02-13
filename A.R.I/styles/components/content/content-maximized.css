@@ -1,0 +1,9 @@
+.content-maximized{
+    display: grid;
+    grid-template-columns: 900px auto;
+    grid-template-rows: 6fr 5fr;
+    grid-template-areas: 
+    "ARI-container graphs-container"
+    "ARI-container buttons-container";
+    gap: 30px;
+}

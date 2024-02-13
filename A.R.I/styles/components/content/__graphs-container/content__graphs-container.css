@@ -1,0 +1,6 @@
+.content__graphs-container{
+    grid-area: graphs-container;
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
